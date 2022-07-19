@@ -1,0 +1,8 @@
+mainMenu, title - Main Menu, Enter 1 for Quick Play, Enter 2 to Choose By Parameter, Enter 0 to Quit
+playMenu, title - Play Menu, Enter 0 to Close Menu, Enter 1 to Save Game, Enter 2 to End Game and Return to Main Menu
+chooseMenu, title - Choose, Enter 1 to Choose By Theme, Enter 2 for Selection Wizard
+themeMenu, title - Choose a Theme, Enter a number to choose from the list of themes below, Enter 0 to Return to Choose Menu
+charGuess, title - Enter a Single Character (if you enter more they will be ignored):
+
+
+
