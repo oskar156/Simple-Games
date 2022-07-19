@@ -1,0 +1,4 @@
+Composers{albinoni,bach,bartok,beethoven,berlioz,bernstein,bizet,boccherini,borodin,brahms,britten,bruckner,buxtehude,chopin,clementi,couperin,czerny,debussy,dvorak,elgar,faure,gershwin,granados,grieg,handel,haydn,khachaturian,liszt,mahler,mendelssohn,messiaen,monteverdi,mozart,mussorgsky,offenbach,pachelbel,paganini,palestrina,prokofiev,puccini,purcell,rachmaninov,rameau,ravel,rimsky-korsakov,rossini,saint-saens,salieri,scarlatti,schoenberg,schubert,schumann,shostakovich,sibelius,strauss,stravinsky,tchaikovsky,telemann,verdi,vivaldi,wagner,williams,villa-lobos}
+Artists{aivazovsky,botticelli,blake,bosch,braque,brunelleschi,caravaggio,cole,da vinci,dali,delacroix,donatello,el greco,gericault,ghiberti,goya,khalo,lorrain,matisse,michelangelo,manet,millet,monet,munch,picasso,pollock,raphael,rembrandt,tintoretto,titian,turner,van eyck,van gogh,velasquez,vermeer,veronese}
+
+
