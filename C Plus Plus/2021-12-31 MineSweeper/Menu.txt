@@ -1,0 +1,4 @@
+mainMenu, title - Main Menu, Enter 1 to Play, Enter 2 to Create, Enter 0 to Quit
+gameMenu, title - Game, Enter 0 to Close Menu, Enter 1 to Save Game, Enter 2 to End Game and Return to Play Menu
+createMenu, title - Create, Enter 1 to Create a Custom Game, Enter 2 to Edit a Custom Game, Enter 3 to Delete a Custom Game, Enter 0 to Return to Main Menu
+playMenu, title - Play, Enter 1 for QuickPlay, Enter 2 to Define and Play a Custom Game, Enter 3 to Choose Game Type, Enter 4 to Continue a Saved Game, Enter 0 to Return to Main Menu
